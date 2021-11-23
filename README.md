@@ -1,2 +1,3 @@
 # Sample Git Repo
-Other content.
+Sample content
+More content.
